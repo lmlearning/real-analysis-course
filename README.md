@@ -1,4 +1,4 @@
-# Real Analysis Course
+# Interactive Real Analysis Course
 
 An interactive real analysis course with progressive disclosure and practice problems, built with React and Vite.
 
